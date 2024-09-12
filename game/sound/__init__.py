@@ -1,1 +1,1 @@
-print("hello.py 파일입니다.")
+print("__init__.py 파일입니다.")
