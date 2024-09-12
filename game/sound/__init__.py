@@ -1,0 +1,1 @@
+print("hello.py 파일입니다.")
