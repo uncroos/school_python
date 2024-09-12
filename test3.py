@@ -1,4 +1,5 @@
 def hello(name):
     print(f"Hello, {name}!")
 
-hello("요한")
+if __name__ == "__main__":
+    hello("요한")
